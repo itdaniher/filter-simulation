@@ -1,0 +1,3 @@
+.OP
+.AC DEC 20 1Hz 100MHz
+.PRINT V(V1) I(V1)

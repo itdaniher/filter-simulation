@@ -1,0 +1,8 @@
+* simulation of filter
+.control
+  tf v(0) v1
+  print all
+
+write
+.endc
+.include filter.net
